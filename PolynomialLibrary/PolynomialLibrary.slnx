@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../PolynomialTest/PolynomialTest.csproj" Id="2aa92487-33ad-4476-a785-168a4d253f4d" />
+  <Project Path="PolynomialLibrary.csproj" Id="e8d1d8c1-5966-4480-a465-9e1171efdb3b" />
+</Solution>

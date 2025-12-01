@@ -1,0 +1,10 @@
+D:\ProgC#\Pr2\PolynomialClientProject\bin\Debug\PolynomialClientProject.exe.config
+D:\ProgC#\Pr2\PolynomialClientProject\bin\Debug\PolynomialClientProject.exe
+D:\ProgC#\Pr2\PolynomialClientProject\bin\Debug\PolynomialClientProject.pdb
+D:\ProgC#\Pr2\PolynomialClientProject\bin\Debug\PolynomialLibrary.dll
+D:\ProgC#\Pr2\PolynomialClientProject\bin\Debug\PolynomialLibrary.pdb
+D:\ProgC#\Pr2\PolynomialClientProject\obj\Debug\PolynomialClientProject.csproj.AssemblyReference.cache
+D:\ProgC#\Pr2\PolynomialClientProject\obj\Debug\PolynomialClientProject.csproj.CoreCompileInputs.cache
+D:\ProgC#\Pr2\PolynomialClientProject\obj\Debug\Polynomi.06C105F3.Up2Date
+D:\ProgC#\Pr2\PolynomialClientProject\obj\Debug\PolynomialClientProject.exe
+D:\ProgC#\Pr2\PolynomialClientProject\obj\Debug\PolynomialClientProject.pdb

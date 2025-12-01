@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgC#\\Pr2\\PolynomialLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA92487-33AD-4476-A785-168A4D253F4D}|..\\PolynomialTest\\PolynomialTest.csproj|d:\\progc#\\pr2\\polynomialtest\\polynomialtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D1D8C1-5966-4480-A465-9E1171EFDB3B}|PolynomialLibrary.csproj|D:\\ProgC#\\Pr2\\PolynomialLibrary\\polynomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D1D8C1-5966-4480-A465-9E1171EFDB3B}|PolynomialLibrary.csproj|solutionrelative:polynomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D1D8C1-5966-4480-A465-9E1171EFDB3B}|PolynomialLibrary.csproj|D:\\ProgC#\\Pr2\\PolynomialLibrary\\ipolynomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D1D8C1-5966-4480-A465-9E1171EFDB3B}|PolynomialLibrary.csproj|solutionrelative:ipolynomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PolynomialTest.cs",
+              "DocumentMoniker": "D:\\ProgC#\\Pr2\\PolynomialTest\\PolynomialTest.cs",
+              "RelativeDocumentMoniker": "..\\PolynomialTest\\PolynomialTest.cs",
+              "ToolTip": "D:\\ProgC#\\Pr2\\PolynomialTest\\PolynomialTest.cs",
+              "RelativeToolTip": "..\\PolynomialTest\\PolynomialTest.cs",
+              "ViewState": "AgIAAC0BAAAAAAAAAAAgwDsBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T22:27:03.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Polynomial.cs",
+              "DocumentMoniker": "D:\\ProgC#\\Pr2\\PolynomialLibrary\\Polynomial.cs",
+              "RelativeDocumentMoniker": "Polynomial.cs",
+              "ToolTip": "D:\\ProgC#\\Pr2\\PolynomialLibrary\\Polynomial.cs",
+              "RelativeToolTip": "Polynomial.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAADwvw4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T21:45:40.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPolynomial.cs",
+              "DocumentMoniker": "D:\\ProgC#\\Pr2\\PolynomialLibrary\\IPolynomial.cs",
+              "RelativeDocumentMoniker": "IPolynomial.cs",
+              "ToolTip": "D:\\ProgC#\\Pr2\\PolynomialLibrary\\IPolynomial.cs",
+              "RelativeToolTip": "IPolynomial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T21:05:22.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

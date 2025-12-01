@@ -1,0 +1,6 @@
+D:\ProgC#\Pr2\PolynomialLibrary\bin\Debug\PolynomialLibrary.dll
+D:\ProgC#\Pr2\PolynomialLibrary\bin\Debug\PolynomialLibrary.pdb
+D:\ProgC#\Pr2\PolynomialLibrary\obj\Debug\PolynomialLibrary.csproj.AssemblyReference.cache
+D:\ProgC#\Pr2\PolynomialLibrary\obj\Debug\PolynomialLibrary.csproj.CoreCompileInputs.cache
+D:\ProgC#\Pr2\PolynomialLibrary\obj\Debug\PolynomialLibrary.dll
+D:\ProgC#\Pr2\PolynomialLibrary\obj\Debug\PolynomialLibrary.pdb
